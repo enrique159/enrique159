@@ -20,3 +20,15 @@ Hi! I'm Enrique Marin! 😁
          Web:  https://enrique159.github.io/me
 ```
 
+```javascript
+languages_and_tools: [
+   'javascript',
+   'vue.js',
+   'react',
+   'node.js',
+   'mongodb',
+   'Flutter',
+   'mysql',
+   'firebase',
+];
+```
