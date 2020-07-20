@@ -6,16 +6,16 @@ Your-Powerful-Device:~ user$ npm install enriquemarin
 
 > npm run start
 
-Hi! I'm Enrique Marin! 😁
+Hola, soy Enrique Marin! 😁
+Soy un joven desarrollador de sitios web y apps, me gusta combinar mis habilidades de diseño
+con programación para emprender proyectos innovadores que busquen mejorar la vida de las personas
 
-💻 Web & Mobile App Developer
-🎓 Computing Systems Engineer
-🕶 Graphic Designer
+💻 Desarrollador Web y Apps Móviles
+🎓 Ing. Sistemas Computacionales
+🕶 Diseñador gráfico y UI/UX
 
    Instagram:  https://instagram.com/enriquemarinh
-    Facebook:  https://facebook.com/enriquemarinhirales
      Twitter:  https://twitter.com/enriquemarin159
-      GitHub:  https://github.com/enrique159
     LinkedIn:  https://linkedin.com/in/enriquemarin
          Web:  https://enrique159.github.io/me
 ```
