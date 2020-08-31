@@ -18,6 +18,8 @@ con programación para emprender proyectos innovadores que busquen mejorar la vi
      Twitter:  https://twitter.com/enriquemarin159
     LinkedIn:  https://linkedin.com/in/enriquemarin
          Web:  https://enrique159.github.io/me
+   
+   DESCARGA MI RESUMEN PDF(482Kb): https://bit.ly/enriquemarinh
 ```
 
 ```javascript
