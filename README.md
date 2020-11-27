@@ -14,17 +14,15 @@ con programación para emprender proyectos innovadores que busquen mejorar la vi
 🎓 Ing. Sistemas Computacionales
 🕶 Diseñador gráfico y UI/UX
 
-   Instagram:  https://instagram.com/enriquemarinh
-     Twitter:  https://twitter.com/enriquemarin159
+     Twitter:  https://twitter.com/enriquemarin_mx
     LinkedIn:  https://linkedin.com/in/enriquemarin
-         Web:  https://enrique159.github.io/me
+         Web:  https://enriquemarin.mx
 ```
 
 ```javascript
 languages_and_tools: [
    'javascript',
    'vue.js',
-   'react',
    'node.js',
    'mongodb',
    'Flutter',
