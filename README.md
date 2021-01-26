@@ -30,4 +30,14 @@ languages_and_tools: [
    'firebase',
 ];
 ```
-DESCARGA MI RESUMEN PDF(482Kb): [https://bit.ly/enriquemarinh](bit.ly/enriquemarinh)
+
+```javascript
+Design_tools: [
+   'Illustrator',
+   'Photoshop',
+   'Adobe Xd',
+   'After Effects',
+   'Figma',
+];
+```
+### DESCARGA MI CV PDF(482Kb): [DOWNLOAD](https://enriquemarin.mx/wp-content/uploads/2020/10/resumen_enriquemarin.pdf)
