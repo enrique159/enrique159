@@ -7,12 +7,12 @@ Your-Powerful-Device:~ user$ npm install enriquemarin
 > npm run start
 
 Hola, soy Enrique Marin! 😁
-Soy un joven desarrollador de sitios web y apps, me gusta combinar mis habilidades de diseño
-con programación para emprender proyectos innovadores que busquen mejorar la vida de las personas
+Soy un joven diseñador de websites, apps y marcas, me gusta combinar mis habilidades de diseño
+con programación para trabajar en proyectos innovadores y creativos.
 
-💻 Desarrollador Web y Apps Móviles
+💻 Programador Web FrontEnd y Apps Móviles
 🎓 Ing. Sistemas Computacionales
-🕶 Diseñador gráfico y UI/UX
+🕶 Brander & UI Designer
 
      Twitter:  https://twitter.com/enriquemarin_mx
     LinkedIn:  https://linkedin.com/in/enriquemarin
@@ -27,7 +27,6 @@ languages_and_tools: [
    'mongodb',
    'Flutter',
    'mysql',
-   'firebase',
 ];
 ```
 
