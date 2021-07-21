@@ -23,7 +23,9 @@ con programación para trabajar en proyectos innovadores y creativos.
 languages_and_tools: [
    'javascript',
    'vue.js',
+   'Nuxt.js',
    'node.js',
+   'Adonis.js',
    'mongodb',
    'Flutter',
    'mysql',
@@ -39,4 +41,4 @@ Design_tools: [
    'Figma',
 ];
 ```
-### DESCARGA MI CV PDF(482Kb): [DOWNLOAD](https://enriquemarin.mx/wp-content/uploads/2020/10/resumen_enriquemarin.pdf)
+### DESCARGA MI CV PDF(1.2Mb): [DOWNLOAD](https://github.com/enrique159/cvresumen/blob/main/resumen_enriquemarin.pdf)
