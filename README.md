@@ -16,7 +16,7 @@ con programación para trabajar en proyectos innovadores y creativos.
 
      Twitter:  https://twitter.com/enriquemarin_mx
     LinkedIn:  https://linkedin.com/in/enriquemarin
-         Web:  https://enriquemarin.mx
+         Web:  https://enriquemarin.vercel.app
 ```
 
 ```javascript
