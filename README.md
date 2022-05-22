@@ -21,24 +21,23 @@ con programación para trabajar en proyectos innovadores y creativos.
 
 ```javascript
 languages_and_tools: [
-   'javascript',
-   'vue.js',
+   'JavaScript',
+   'Vue.js',
    'Nuxt.js',
-   'node.js',
+   'Node.js',
    'Adonis.js',
-   'mongodb',
-   'Flutter',
-   'mysql',
+   'MongoDB',
+   'MySQL',
+   'AWS & DigitalOcean',
+   'Heroku'
 ];
 ```
 
 ```javascript
 Design_tools: [
-   'Illustrator',
-   'Photoshop',
-   'Adobe Xd',
-   'After Effects',
    'Figma',
+   'Illustrator',
+   'Adobe Xd',
 ];
 ```
 ### DOWNLOAD MY CV PDF(1.8Mb): [DOWNLOAD](https://github.com/enrique159/cvresumen/blob/main/resumen_enriquemarin.pdf)
