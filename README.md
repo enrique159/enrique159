@@ -40,4 +40,4 @@ Design_tools: [
    'Adobe Xd',
 ];
 ```
-### DOWNLOAD MY CV PDF(1.8Mb): [DOWNLOAD](https://github.com/enrique159/cvresumen/blob/main/resumen_enriquemarin.pdf)
+### DOWNLOAD MY CV RESUME: [DOWNLOAD](https://github.com/enrique159/cvresumen/blob/main/resumen_enriquemarin.pdf)
