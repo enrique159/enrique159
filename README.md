@@ -10,26 +10,25 @@ Hola, soy Enrique Marin! 😁
 Soy un joven desarrollador Web FrontEnd, me gusta combinar mis habilidades de diseño
 con programación para trabajar en proyectos innovadores y creativos.
 
-💻 Programador Web FrontEnd y Apps Móviles
+💻 Programador Web FrontEnd
 🎓 Ing. Sistemas Computacionales
 🕶 Brander & UI Designer
 
      Twitter:  https://twitter.com/enriquemarin_mx
     LinkedIn:  https://linkedin.com/in/enriquemarin
-         Web:  https://enriquemarin.xyz
+         Web:  https://enriquemarin.vercel.app
 ```
 
 ```javascript
 languages_and_tools: [
    'JavaScript',
-   'Vue.js',
+   'Vue 2 & 3',
    'Nuxt.js',
    'Node.js',
-   'Adonis.js',
+   'Express',
    'MongoDB',
    'MySQL',
    'AWS & DigitalOcean',
-   'Heroku'
 ];
 ```
 
