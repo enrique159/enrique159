@@ -4,7 +4,7 @@ Your-Powerful-Device:~ user$ npm install enriquemarin
 
 + @enriquemarin/cli@1.0.0 added 16 packages from 1 contributor in 1.092s
 
-> npm run start
+> enriquemarin create new --intro-template
 
 Hola, soy Enrique Marin! 😁
 Soy un joven desarrollador Web FrontEnd, me gusta combinar mis habilidades de diseño
