@@ -10,7 +10,7 @@ Hola, soy Enrique Marin! 😁
 Soy un joven desarrollador Web FrontEnd, me gusta combinar mis habilidades de diseño
 con programación para trabajar en proyectos innovadores y creativos.
 
-💻 Programador Web FrontEnd
+💻 Web Developer
 🎓 Ing. Sistemas Computacionales
 🕶 Brander & UI Designer
 
@@ -21,9 +21,9 @@ con programación para trabajar en proyectos innovadores y creativos.
 
 ```javascript
 languages_and_tools: [
-   'JavaScript',
+   'TypeScript',
    'Vue 2 & 3',
-   'Nuxt.js',
+   'React'
    'Node.js',
    'Express',
    'MongoDB',
