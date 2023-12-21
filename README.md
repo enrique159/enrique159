@@ -22,10 +22,10 @@ con programación para trabajar en proyectos innovadores y creativos.
 ```javascript
 languages_and_tools: [
    'TypeScript',
-   'Vue 2 & 3',
+   'Vue 3 (also 2)',
    'React'
    'Node.js',
-   'Express',
+   'Express.js',
    'MongoDB',
    'MySQL',
    'AWS & DigitalOcean',
