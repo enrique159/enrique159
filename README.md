@@ -18,6 +18,9 @@ con programación para trabajar en proyectos innovadores y creativos.
     LinkedIn:  https://linkedin.com/in/enriquemarin
          Web:  https://enriquemarin.xyz
 ```
+```Star projects
+Mitienda POS: [Github project](https://github.com/enrique159/mitienda-pos)
+```
 
 ```javascript
 languages_and_tools: [
