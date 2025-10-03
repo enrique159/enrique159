@@ -13,10 +13,9 @@ with programming to work on innovative and creative projects.
 💻 Web Developer
 🎓 Computer Systems Engineering
 🕶 Brander & UI Designer
-
-    LinkedIn:  [https://linkedin.com/in/enriquemarin](https://linkedin.com/in/enriquemarin)
-     Website:  [https://enriquemarin.xyz](https://enriquemarin.xyz)
 ```
+LinkedIn:  [https://linkedin.com/in/enriquemarin](https://linkedin.com/in/enriquemarin)
+Website:  [https://enriquemarin.xyz](https://enriquemarin.xyz)
 
 ```javascript
 languages_and_tools: [
