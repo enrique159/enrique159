@@ -47,7 +47,9 @@ IA_tools: [
    'Gemini CLI (OS system implementations)',
 ];
 ```
-🔥Main projects:
-Mitienda POS: [Github project](https://github.com/enrique159/mitienda-pos)
+🔥Main projects:  
+
+Mitienda POS: [Github project](https://github.com/enrique159/mitienda-pos)  
+
 Myagen (Agenda & TODO): [myagen.vercel.app](https://myagen.vercel.app)
 ### DOWNLOAD MY CV RESUME: [DOWNLOAD](https://github.com/enrique159/cvresumen/blob/main/resumen_enriquemarin.pdf)
