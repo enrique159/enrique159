@@ -6,7 +6,7 @@ Your-Powerful-Device:~ user$ npm install enriquemarin
 
 > enriquemarin create new --intro-template
 
-Hello, I`m Enrique Marin! 😁
+Hello, I am Enrique Marin! 😁
 I am a Software Web Developer, I like to combine my design skills
 with programming to work on innovative and creative projects.
 
