@@ -6,29 +6,30 @@ Your-Powerful-Device:~ user$ npm install enriquemarin
 
 > enriquemarin create new --intro-template
 
-Hola, soy Enrique Marin! 😁
-Soy un joven desarrollador Web FrontEnd, me gusta combinar mis habilidades de diseño
-con programación para trabajar en proyectos innovadores y creativos.
+Hello, I'm Enrique Marin! 😁
+I am a Software Web Developer, I like to combine my design skills
+with programming to work on innovative and creative projects.
 
 💻 Web Developer
-🎓 Ing. Sistemas Computacionales
+🎓 Computer Systems Engineering
 🕶 Brander & UI Designer
 
-     Twitter:  https://twitter.com/enriquemarin_mx
     LinkedIn:  https://linkedin.com/in/enriquemarin
-         Web:  https://enriquemarin.xyz
+     Website:  https://enriquemarin.xyz
 ```
 
 ```javascript
 languages_and_tools: [
-   'TypeScript',
+   'TypeScript (JavaScript)',
    'Vue 3 (also 2)',
    'React'
    'Node.js',
    'Express.js',
+   'NestJS'
    'MongoDB',
-   'MySQL',
+   'SQL (MySQL, MSSQL, Postgresql',
    'AWS & DigitalOcean',
+   'Jenkins (CI/CD)'
 ];
 ```
 
@@ -36,9 +37,17 @@ languages_and_tools: [
 Design_tools: [
    'Figma',
    'Illustrator',
-   'Adobe Xd',
 ];
 ```
-🔥Star projects:
+
+```javascript
+IA_tools: [
+   'Claude Sonnet (code performance)',
+   'Windsurf Cascade (code builder)',
+   'Gemini CLI (OS system implementations)',
+];
+```
+🔥Main projects:
 Mitienda POS: [Github project](https://github.com/enrique159/mitienda-pos)
+Myagen (Agenda & TODO): [myagen.vercel.app](https://myagen.vercel.app)
 ### DOWNLOAD MY CV RESUME: [DOWNLOAD](https://github.com/enrique159/cvresumen/blob/main/resumen_enriquemarin.pdf)
