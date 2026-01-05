@@ -42,8 +42,8 @@ Design_tools: [
 
 ```javascript
 IA_tools: [
-   'Claude Sonnet (code performance)',
-   'Windsurf Cascade (code builder)',
+   'Claude Sonnet (code builder)',
+   'ChatGPT (project planning)',
    'Gemini CLI (OS system implementations)',
 ];
 ```
