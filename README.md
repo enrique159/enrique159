@@ -42,9 +42,9 @@ Design_tools: [
 
 ```javascript
 IA_tools: [
-   'Claude Sonnet (code builder)',
-   'ChatGPT (project planning)',
-   'Gemini CLI (OS system implementations)',
+   'Codex with GPT-5.6 (build coding)',
+   'Opencode with AI providers (OS system implementations)',
+   'Gemini Flash (research and common questions)',
 ];
 ```
 🔥Main projects:  
